@@ -1,0 +1,8 @@
+ECHO is on.
+# ignore virtual Environments
+myenv/
+Streamlitapp/myvenv/
+# Ignore checkpoints
+.ipynb_checkpoints/
+#Ignore compiled python files
+__pycache__/
